@@ -1,0 +1,19 @@
+# Ignore zip files
+*.zip
+
+# Ignore model files
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.joblib
+*.sav
+*.model
+*.pb
+*.onnx
+
+# Ignore pkl files
+*.pkl
